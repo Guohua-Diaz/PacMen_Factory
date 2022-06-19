@@ -10,7 +10,7 @@
 4. You could add as many as pacmen in the game.
 
 ## Roadmap of future improvements
-> Plan to improve the PacMan image to make it more attractive
+> Plan to improve the PacMan image and background screen to make it more attractive
 
 ## License information
 [MIT license](http://choosealicense.com/licenses/mit)
