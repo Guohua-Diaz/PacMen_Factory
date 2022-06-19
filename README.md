@@ -1,7 +1,7 @@
 # PacMen_Factory
 ## Making Unlimitted PacMen
 
-```It's fun game.```
+```It's a fun game.```
 
 ## How to Run
 1. Click "Add PacMan" button, a new pacman would show up at a random position on the screen.
