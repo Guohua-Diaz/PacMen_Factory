@@ -4,10 +4,9 @@
 ```It's a fun game.```
 
 ## How to Run
-1. Click "Add PacMan" button, a new pacman would show up at a random position on the screen.
-2. Click "Start Game" button, the pacman or pacmen show up and would start dancing at random speed on the screen.
-3. When a pacman hits the edge of the screen, it would change position to stay within the window frame of the web page.
-4. You could add as many as pacmen in the game.
+1. Clicking "Add PacMan" button, a new pacman woudl show up on the screen.
+2. Clicking "Start Game" button, the pacman or pacmen show up and would move up and down at random speed on the screen.
+3. You could add as many as pacmen in the game.
 
 ## Roadmap of future improvements
 > Plan to improve the PacMan image and background screen to make it more attractive
