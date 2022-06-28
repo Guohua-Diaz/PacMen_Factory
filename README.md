@@ -15,3 +15,9 @@
 [MIT license](http://choosealicense.com/licenses/mit)
 
 ![pacmen-factory 5](https://user-images.githubusercontent.com/102787056/174463754-76798e96-8c45-454a-a99b-290ceb51d7d9.gif)
+
+ ## Instructions
+     1. Clone the repo (remember which folder the repo was cloned)
+     2. Open Chrome.
+     3. On Chrome, click File->Open File
+     4. Select index.html
